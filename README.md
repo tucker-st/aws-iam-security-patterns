@@ -120,13 +120,6 @@ Together, these repositories demonstrate **end-to-end cloud security competence*
 
 The goal is **security clarity**, not feature coverage.
 
----
-
-## 🔎 Recruiter Signal
-
-This repository answers one question clearly:
-
-> *“Does this person understand identity as the foundation of cloud security?”*
 
 ---
 
