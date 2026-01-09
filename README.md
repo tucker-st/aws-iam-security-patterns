@@ -120,6 +120,9 @@ Together, these repositories demonstrate **end-to-end cloud security competence*
 
 The goal is **security clarity**, not feature coverage.
 
+This repository is maintained as a reference for designing and reasoning about
+cloud identity security in environments where auditability, availability, and
+operational discipline are required.
 
 ---
 
